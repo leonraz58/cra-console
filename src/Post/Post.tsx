@@ -11,6 +11,7 @@ export const Post = () => {
             <p>develop/popup branch commit2</p>
             <p>develop/login branch commit1</p>
             <p>develop/login branch commit2</p>
+            <p>something after stashing</p>
         </div>
     )
 }
